@@ -1,6 +1,10 @@
 # twitch-dj
 Integration between Twitch and Spotify that lets your audience queue songs.
 
+Authentication
+---
+You will need to sign in with the same user as the one provided in config.json
+
 config.json
 ---
 ```
