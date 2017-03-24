@@ -1,0 +1,19 @@
+{
+  "name": "twitch-dj",
+  "version": "1.0.0",
+  "description": "Allows Twitch Chat to control a Spotify queue as well as other Spotify integration",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-twitchbot": "^1.2.2",
+    "tmi.js": "^1.1.2"
+  }
+}
